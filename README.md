@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shubham Kuma, a Software Development Engineer in Test  👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Shubham Kumar, a Software Development Engineer in Test  👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/skyon99845/skyon99845/github-profilinator)  
