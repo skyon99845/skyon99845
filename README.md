@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Shubham Kumar, a Software Development Engineer in Test  👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Shubham Kumar, a Software Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/skyon99845/skyon99845/github-profilinator)  
   
 
-- 🌱 I’m currently learning Cypress and Selenium  
+- 🌱 I’m currently working as Backend Engineer  
   
 
-- ❓ Ask me about anything related to Selenium and Cypress  
+- ❓ Curious to learn about new Technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
