@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shubham Kumar, a Software Developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Shubham Kumar, a Java Full Stack (Angular) Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on Springboot  
